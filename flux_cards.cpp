@@ -5,7 +5,7 @@
 #include <cstdlib> // Needed for rand() and srand()
 #include <ctime>   // Needed for time()
 #include <vector> //need for vectors
-#include <algorithm> //needed for the random shuffle
+#include <algorithm> //needed for the random shufflee
 
 
 using namespace std;
